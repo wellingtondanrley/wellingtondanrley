@@ -7,18 +7,16 @@
 <!--       <a href="https://galacyber.xyz"> -->
             <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
       </a>
-      Hi, I'm
+      Olá, Sou
       <a href="https://vangller.vercel.app">Vangller</a>
 </h1>
 
 <h3 align="center">
-  Discord bot Developer | Random Person
+  Discord bot Developer
 </h3>
 
 ***
 <p align="center">
-  <a href="https://discord.gg/VzGNhtmmfB"><img src="https://discordapp.com/api/guilds/826406117658853417/widget.png?style=banner2" alt="Discord server">
-  </a>
   <a href="https://discord.com/users/1100783241427943454">
     <img src="https://media.discordapp.net/attachments/1102238405330481173/1104947646482878495/682211671728455702.png" width = 376,5px alt="Discord"/>
   </a>
