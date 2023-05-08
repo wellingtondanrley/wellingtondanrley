@@ -20,7 +20,7 @@
   <a href="https://discord.gg/VzGNhtmmfB"><img src="https://discordapp.com/api/guilds/826406117658853417/widget.png?style=banner2" alt="Discord server">
   </a>
   <a href="https://discord.com/users/1100783241427943454">
-    <img src="https://discord.c99.nl/widget/theme-2/682211671728455702.png" width = 376,5px alt="Discord"/>
+    <img src="https://media.discordapp.net/attachments/1102238405330481173/1104947646482878495/682211671728455702.png" width = 376,5px alt="Discord"/>
   </a>
 </p>
 
