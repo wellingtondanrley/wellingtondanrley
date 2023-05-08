@@ -37,7 +37,7 @@
 
 - 👨‍💻 Todos meus projetos [Vangller Projects](https://github.com/Vangller?tab=repositories)
 
-> <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Connect with me:</h3>
+> <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Conecte-se comigo:</h3>
 <div align="left">
 
 <!-- [![Discord](https://img.shields.io/badge/Discord-%230167ff.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Vangller)--> 
@@ -54,7 +54,7 @@
 
 </div>
 
-> <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Languages and Tools: </h3>
+> <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Linguagens: </h3>
 <div align="left">
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
