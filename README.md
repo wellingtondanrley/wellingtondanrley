@@ -32,13 +32,13 @@
 
 ***
 <p align="center">
-  <a href="https://github.com/MGalaCyber">
-    <img src="https://komarev.com/ghpvc/?username=MGalaCyber&style=for-the-badge&label=PROFILE%20VIEWS&color=6e57ff" alt="MGalaCyber" />
+  <a href="https://github.com/Vangller">
+    <img src="https://komarev.com/ghpvc/?username=Vangller&style=for-the-badge&label=PROFILE%20VIEWS&color=6e57ff" alt="MGalaCyber" />
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [GalaCyber Projects](https://github.com/MGalaCyber?tab=repositories)
-- 👨‍💻 All of my gits are available at [GalaCyber Gits](https://gist.github.com/MGalaCyber)
+- 👨‍💻 All of my projects are available at [GalaCyber Projects](https://github.com/Vangller?tab=repositories)
+- 👨‍💻 All of my gits are available at [GalaCyber Gits](https://gist.github.com/Vangller)
 
 > <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Connect with me:</h3>
 <div align="left">
@@ -118,28 +118,28 @@
 <br>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mgalacyber&theme=radical" alt="mgalacyber" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vangller&theme=radical" alt="mgalacyber" />
   </a>
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
-  <a href="https://github.com/MGalaCyber">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&layout=compact" alt="mgalacyber" />
+  <a href="https://github.com/vangller">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vangller&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en&layout=compact" alt="mgalacyber" />
     <p>
   </a>
-  <a href="https://github.com/MGalaCyber">
-    <img src="https://github-readme-stats.vercel.app/api?username=mgalacyber&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en" alt="mgalacyber" />
+  <a href="https://github.com/vangller">
+    <img src="https://github-readme-stats.vercel.app/api?username=vangller&show_icons=true&title_color=04ff00&text_color=2bff00&bg_color=121212&locale=en" alt="mgalacyber" />
   </a>
-  <a href="https://github.com/MGalaCyber">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MGalaCyber&hide_border=false&background=121212&currStreakLabel=4760BB&sideLabels=4760BB&currStreakNum=FFFF00&dates=FFFF00&sideNums=04ff00&fire=FF0000&ring=04ff00&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+  <a href="https://github.com/vangller">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=vangller&hide_border=false&background=121212&currStreakLabel=4760BB&sideLabels=4760BB&currStreakNum=FFFF00&dates=FFFF00&sideNums=04ff00&fire=FF0000&ring=04ff00&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a>
-  <a href="https://github.com/MGalaCyber">
+  <a href="https://github.com/vangller">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@01249c98-d102-4753-9eb3-d47cc1f3f864&show_icons=true&title_color=04ff00&text_color=4760BB&bg_color=121212&compact=True" />
   </a>
 
 ***
       
-  <a href="https://github.com/MGalaCyber"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MGalaCyber&bg_color=0D1117&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" /></a>
+  <a href="https://github.com/vangller"><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vangller&bg_color=0D1117&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" /></a>
 </div>
 </details>
 
