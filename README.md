@@ -37,8 +37,7 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [GalaCyber Projects](https://github.com/Vangller?tab=repositories)
-- 👨‍💻 All of my gits are available at [GalaCyber Gits](https://gist.github.com/Vangller)
+- 👨‍💻 Todos meus projetos [Vangller Projects](https://github.com/Vangller?tab=repositories)
 
 > <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Connect with me:</h3>
 <div align="left">
@@ -100,13 +99,3 @@
 <!-- ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
 </div>
-
-> <h3 align="left">Support:</h3>
-  <a href="https://trakteer.id/manggala1274" target="_blank">
-      <img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-green-1.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya">
-  </a>
-  <!-- <a href="https://ko-fi.com/mgalacyber1274" target="_blank">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mgalacyber1274" />
-  </a> -->
-<br>
-<br>
