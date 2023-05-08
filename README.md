@@ -26,7 +26,7 @@
 
 <!-- <div align="center" width="40">
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MGalaCyber&theme=dark&data=followers,repositories,stars,commits)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Vangller&theme=dark&data=followers,repositories,stars,commits)
 
 </div> -->
 
