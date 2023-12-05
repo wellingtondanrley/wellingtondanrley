@@ -28,13 +28,6 @@
 
 </div> -->
 
-***
-<p align="center">
-  <a href="https://github.com/Vangller">
-    <img src="https://komarev.com/ghpvc/?username=Vangller&style=for-the-badge&label=PROFILE%20VIEWS&color=6e57ff" alt="MGalaCyber" />
-  </a>
-</p>
-
 - 👨‍💻 Todos meus projetos [Vangller Projects](https://github.com/Vangller?tab=repositories)
 
 > <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Conecte-se comigo:</h3>
@@ -97,3 +90,10 @@
 <!-- ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
 </div>
+
+***
+<p align="left">
+  <a href="https://github.com/Vangller">
+    <img src="https://komarev.com/ghpvc/?username=Vangller&style=for-the-badge&label=PROFILE%20VIEWS&color=6e57ff" alt="MGalaCyber" />
+  </a>
+</p>
