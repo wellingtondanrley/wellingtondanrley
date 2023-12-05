@@ -91,9 +91,8 @@
 
 </div>
 
->
 <p align="left">
   <a href="https://github.com/Vangller">
-    <img src="https://komarev.com/ghpvc/?username=Vangller&style=for-the-badge&label=PROFILE%20VIEWS&color=6e57ff" alt="MGalaCyber" />
+    <img src="https://komarev.com/ghpvc/?username=Vangller&style=for-the-badge&label=PROFILE%20GITHUB%20VIEWS&color=6e57ff" alt="MGalaCyber" />
   </a>
 </p>
