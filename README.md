@@ -20,8 +20,9 @@
   <a href="https://discord.com/users/1100783241427943454">
     <img src="https://media.discordapp.net/attachments/1102238405330481173/1104950824255377459/682211671728455702.png" width = 376,5px alt="Discord"/>
   </a>
-</p>
 ***
+</p>
+
 
 <!-- <div align="center" width="40">
 
