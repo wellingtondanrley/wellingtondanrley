@@ -53,7 +53,7 @@
 > <h3 align="left"> 🧟 Community Standard:</h3>
 <div align="left">
 
-[![Instagram](https://img.shields.io/badge/Discord-3670A0.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/WqkMBasTnh)
+[![Instagram](https://img.shields.io/badge/Discord-Community-3670A0.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/WqkMBasTnh)
 <br/>
 
 </div>
