@@ -1,9 +1,9 @@
-<div align="center" style"border-radius:15px">
+<div align="left" style"border-radius:15px">
       <a href="https://galacyber.xyz">
         <img src="./Images/MGalaCyber.gif" />
     </a>
 </div>
-<h1 align="center">
+<h1 align="left">
 <!--       <a href="https://galacyber.xyz"> -->
             <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
       </a>
