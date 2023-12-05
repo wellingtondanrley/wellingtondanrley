@@ -67,6 +67,7 @@
 <!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)-->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/PAWNO-%23F7DF1E.svg?style=for-the-badge&logo=C#&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Lua-blue.svg?style=for-the-badge&logo=lua&logoColor=white)
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)-->
 <!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)-->
