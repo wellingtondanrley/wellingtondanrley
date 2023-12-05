@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://discord.com/users/1100783241427943454">
-    <img src="https://media.discordapp.net/attachments/1102238405330481173/1104950824255377459/682211671728455702.png" width = 376,5px alt="Discord"/>
+    <img src="https://media.discordapp.net/attachments/1178551746826600559/1181668544400859217/discord_perf_git.png" width = 376,5px alt="Discord"/>
   </a>
 </p>
 
