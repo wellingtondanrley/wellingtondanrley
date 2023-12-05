@@ -50,7 +50,7 @@
 <!-- [![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=for-the-badge&logo=Codepen&logoColor=white)](https://codepen.io/mgalacyber) -->
 <!-- [![Codesandbox](https://img.shields.io/badge/Codesandbox-%23000000.svg?style=for-the-badge&logo=Codesandbox&logoColor=white)](https://codesandbox.com/mgalacyber) --> 
 
-> <h3 align="left"><img src='🧟' width="40"> Community Standard:</h3>
+> <h3 align="left"> 🧟 Community Standard:</h3>
 <div align="left">
 
 [![Instagram](https://media.discordapp.net/attachments/1178551746826600559/1181597358652403782/image2.png)](https://discord.gg/WqkMBasTnh)
