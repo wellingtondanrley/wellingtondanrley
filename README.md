@@ -21,6 +21,7 @@
     <img src="https://media.discordapp.net/attachments/1102238405330481173/1104950824255377459/682211671728455702.png" width = 376,5px alt="Discord"/>
   </a>
 </p>
+***
 
 <!-- <div align="center" width="40">
 
