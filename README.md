@@ -53,7 +53,7 @@
 > <h3 align="left"> 🧟 Community Standard:</h3>
 <div align="left">
 
-[![Instagram](https://media.discordapp.net/attachments/1178551746826600559/1181601039519068262/image2.png)](https://discord.gg/WqkMBasTnh)
+[![Instagram](https://img.shields.io/badge/Discord-3670A0.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/WqkMBasTnh)
 <br/>
 
 </div>
@@ -66,7 +66,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)-->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Python](https://media.discordapp.net/attachments/1178551746826600559/1181604015411310643/PAWNO.png)
+![Python](https://img.shields.io/badge/PAWNO-%23323330.svg?style=for-the-badge&logo=C#&logoColor=%23F7DF1E)
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)-->
 <!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)-->
