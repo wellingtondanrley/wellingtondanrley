@@ -11,16 +11,14 @@
       <a href="https://vangller.vercel.app">Vangller</a>
 </h1>
 
-<h3 align="center">
+<h3 align="left">
   Discord bot Developer
 </h3>
 
-***
-<p align="center">
+<p align="left">
   <a href="https://discord.com/users/1100783241427943454">
     <img src="https://media.discordapp.net/attachments/1102238405330481173/1104950824255377459/682211671728455702.png" width = 376,5px alt="Discord"/>
   </a>
-***
 </p>
 
 
