@@ -28,10 +28,20 @@
 
 </div> -->
 
-- 👨‍💻 Todos meus projetos [Vangller Projects](https://github.com/Vangller?tab=repositories)
+- 🗃️ All my projects [Vangller Projects](https://github.com/Vangller?tab=repositories)
+- 📫 My Discord @Vangller
 
 > <h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40"> Conecte-se comigo:</h3>
 <div align="left">
+
+> <h3 align="left"><img src='https://media.discordapp.net/attachments/1178551746826600559/1181597358652403782/image2.png' width="40"> Community Standard:</h3>
+<div align="left">
+
+<p align="left">
+  <a href="https://github.com/Vangller">
+    <img src="https://komarev.com/ghpvc/?username=Vangller&style=for-the-badge&label=PROFILE%20GITHUB%20VIEWS&color=6e57ff" alt="MGalaCyber" />
+  </a>
+</p>
 
 <!-- [![Discord](https://img.shields.io/badge/Discord-%230167ff.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Vangller)--> 
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/GalaNimation)--> 
@@ -90,9 +100,3 @@
 <!-- ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
 </div>
-
-<p align="left">
-  <a href="https://github.com/Vangller">
-    <img src="https://komarev.com/ghpvc/?username=Vangller&style=for-the-badge&label=PROFILE%20GITHUB%20VIEWS&color=6e57ff" alt="MGalaCyber" />
-  </a>
-</p>
