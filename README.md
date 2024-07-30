@@ -1,5 +1,5 @@
 <h1>What's up, people! I'm Danrley 👋</h1>
-https://cdn.discordapp.com/emojis/1183871517545742487.gif?size=96&quality=lossless<h3>Software Engineering Academic.</h3>
+<img height="10%" align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=vangller&layout=compact&theme=radical](https://cdn.discordapp.com/emojis/1183871517545742487.gif?size=96&quality=lossless)"><h3>Software Engineering Academic.</h3>
 
 
 
