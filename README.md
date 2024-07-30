@@ -1,5 +1,5 @@
 <h1>What's up, people! I'm Danrley 👋</h1>
-<img height="30" align="left" src="https://cdn.discordapp.com/emojis/849131580453814312.gif"><h3>Software Engineering Academic.</h3>
+<img height="30" width="30" align="left" src="https://cdn.discordapp.com/emojis/849131580453814312.gif"><h3>Software Engineering Academic.</h3>
 
 
 
