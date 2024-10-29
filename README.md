@@ -1,6 +1,6 @@
 <h3 align="center">
     <samp>
-        &gt; Sup. I am <b>Luan</b>.
+        &gt; Sup. I am <b>Danrley</b>.
     </samp>
 </h3>
 
@@ -14,7 +14,7 @@
 
 # 💫 About
 
-🖊️ Developer at Sakura / Saturno / Euforia / Lisboa / Bella, from [Garty Group](https://discord.gg/FsvcPH554h)<br>
+🖊️ Developer at Sakura / Saturno / Euforia / Lisboa / Bella, from [Group]()<br>
 🥋 Brazilian Jiu Jitsu fighter in free time<br>
 🚀 Available for projects<br>
 
@@ -39,16 +39,16 @@
 ## 📊 GitHub
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=piitszk&theme=radical&hide_border=false" alt="Piitszk's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vangller&theme=radical&hide_border=false" alt="vangller's GitHub Streak" />
 </div>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=piitszk&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Piitszk's GitHub Stats"  height="192px" width="49.5%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piitszk&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Piitszk's Top Languages"  height="192px" width="49.5%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vangller&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="vangller's GitHub Stats"  height="192px" width="49.5%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangller&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="vangller's Top Languages"  height="192px" width="49.5%" />
 </div>
 <br>
 
-![Piitszk's Graph](https://github-readme-activity-graph.vercel.app/graph?username=piitszk&custom_title=piitszk'%20GitHub%20Activity%20Graph&area=true&theme=redical)
+![vangller's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vangller&custom_title=vangller'%20GitHub%20Activity%20Graph&area=true&theme=redical)
 
 ---
 <p align="center">
