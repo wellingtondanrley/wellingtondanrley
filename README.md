@@ -15,7 +15,7 @@
 
 # 💫 About
 
-🖊️ Developer at [RNSOL](https://rnsol.com.br)[SOLARANGELS](https://solarangels.com.br)[TROCOBANK](https://trocobank.com.br)[UVISIONS](http://uvisions.com.br)<br>
+🖊️ Developer at [RNSol](https://rnsol.com.br) [SolarAngels](https://solarangels.com.br) [TrocoBank](https://trocobank.com.br) [UVisions](http://uvisions.com.br)<br>
 🥋 Brazilian Jiu Jitsu fighter in free time<br>
 🚀 Available for projects<br>
 
