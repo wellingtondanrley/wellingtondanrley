@@ -1,12 +1,12 @@
 <h3 align="center">
     <samp>
-        &gt; Sup. I am <b>Danrley</b>.
+        &gt; I'm <b>Danrley</b>.
     </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    「 A self-taught programmer from <b>Brazil</b> 」
+    「 Academic in software engineering in <b>Unopar</b> 」
     <br>
   </samp>
   <br>
