@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <samp>
-    「 Academic in <b>Software Engineering</b>b> 」
+    「 Academic in <b>Software Engineering</b> 」
     <br>
     「 Dev <b>UI & UX Designer</b> 」
   </samp>
