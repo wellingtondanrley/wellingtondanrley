@@ -6,9 +6,9 @@
 
 <p align="center"> 
   <samp>
-    「 Academic in software engineering in <b>Unopar</b> 」
+    「 Academic in software engineering 」
     <br>
-    「 Academic in software engineering in <b>Unopar</b> 」
+    「 Dev <b>UI & UX Designer</b> 」
   </samp>
   <br>
 </p>
