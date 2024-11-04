@@ -15,7 +15,7 @@
 
 # 💫 About
 
-🖊️ Developer at Sakura / Saturno / Euforia / Lisboa / Bella, from [Group]()<br>
+🖊️ Developer at [RNSOL](https://rnsol.com.br)[SOLARANGELS](https://solarangels.com.br)[TROCOBANK](https://trocobank.com.br)[UVISIONS](http://uvisions.com.br)<br>
 🥋 Brazilian Jiu Jitsu fighter in free time<br>
 🚀 Available for projects<br>
 
