@@ -13,11 +13,11 @@
   <br>
 </p>
 
-# 💫 About
+# 🪐 About
 
 🖊️ Developer at [RNSol](https://rnsol.com.br) [SolarAngels](https://solarangels.com.br) [TrocoBank](https://trocobank.com.br) [UVisions](http://uvisions.com.br)<br>
-🥋 Brazilian Jiu Jitsu fighter in free time<br>
-🚀 Available for projects<br>
+🏊‍♂️ I practice swimming, in my time free<br>
+🤝 Available for projects<br>
 
 ## 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
