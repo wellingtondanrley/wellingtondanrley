@@ -15,7 +15,7 @@
 
 # 🪐 About
 
-🖊️ Developer at [RNSol](https://rnsol.com.br) [SolarAngels](https://solarangels.com.br) [TrocoBank](https://trocobank.com.br) [UVisions](http://uvisions.com.br)<br>
+🧑🏽‍💻 Developer at [RNSol](https://rnsol.com.br) [SolarAngels](https://solarangels.com.br) [TrocoBank](https://trocobank.com.br) [UVisions](http://uvisions.com.br)<br>
 🏊‍♂️ I practice swimming, in my time free<br>
 🤝 Available for projects<br>
 
