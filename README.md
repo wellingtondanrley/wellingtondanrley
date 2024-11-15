@@ -31,7 +31,7 @@
 ## 📊 GitHub
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wellingtondanrley&theme=radical&hide_border=false" alt="Wellington Danrley's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wellingtondanrley&theme=radical&hide_border=false" alt="wellingtondanrley's GitHub Streak" />
 </div>
 <br>
 <div align="center">
