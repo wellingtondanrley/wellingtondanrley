@@ -15,7 +15,6 @@
 
 # 🪐 About
 
-🧑🏽‍💻 Developer at [RNSol](https://rnsol.com.br)<br>
 🏊‍♂️ I practice swimming, in my time free<br>
 🤝 Available for projects<br>
 
