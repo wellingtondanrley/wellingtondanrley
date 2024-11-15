@@ -40,7 +40,7 @@
 </div>
 <br>
 
-![vangller's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vangller&custom_title=wellingtondanrley'%20GitHub%20Activity%20Graph&area=true&theme=redical)
+![vangller's Graph](https://github-readme-activity-graph.vercel.app/graph?username=wellingtondanrley&custom_title=wellingtondanrley'%20GitHub%20Activity%20Graph&area=true&theme=redical)
 
 ---
 <p align="center">
