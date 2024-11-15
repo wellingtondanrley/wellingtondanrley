@@ -35,7 +35,7 @@
 </div>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vangller&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="wellingtondanrley's GitHub Stats"  height="192px" width="49.5%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wellingtondanrley&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="wellingtondanrley's GitHub Stats"  height="192px" width="49.5%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtondanrley&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="wellingtondanrley's Top Languages"  height="192px" width="49.5%" />
 </div>
 <br>
