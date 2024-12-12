@@ -1,10 +1,10 @@
-<h3 align="center">
+<h3 >
     <samp>
         &gt; I'm <b>Danrley</b>.
     </samp>
 </h3>
 
-<p align="center"> 
+<p > 
   <samp>
     「 Academic in <b>Software Engineering</b> 」
     <br>
