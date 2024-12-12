@@ -1,6 +1,6 @@
 <h3 >
     <samp>
-        &gt; I'm <b>Danrley</b>.
+        &gt; Hi, I'm <b>Danrley</b>! I’m 21 years old and passionate about programming..
     </samp>
 </h3>
 
