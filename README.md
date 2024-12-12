@@ -1,4 +1,4 @@
-# Hi there, I'm Danrley 👋
+# Hi, I'm Danrley 👋
 
 ## About Me
 
