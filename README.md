@@ -28,7 +28,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
 
----
+>"core core core core core core core core core." – stop
 <p align="center">
   <img src="https://github.com/minemalox/minemalox/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
