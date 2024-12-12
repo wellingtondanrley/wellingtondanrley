@@ -8,6 +8,7 @@
   <samp>
     Student in <b>Software Engineering</b> at <b>Northern University of Paraná</b>.
     <br>
+<br>
     I’m a <b>UX/UI developer</b> passionate about creating user-friendly and visually engaging designs.
   </samp>
   <br>
