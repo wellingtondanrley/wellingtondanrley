@@ -6,9 +6,7 @@
 
 <p > 
   <samp>
-    Student in <b>Software Engineering</b>
-    <br>
-    Student in <b>Software Engineering</b>
+    Student in <b>Software Engineering</b> Northern University of Paraná.
     <br>
     Dev <b>UI & UX Designer</b>
   </samp>
