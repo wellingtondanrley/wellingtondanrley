@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=csharp,js,python,php&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=c++,js,python,php&theme=dark" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vue,next,nodejs&theme=dark" />
