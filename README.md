@@ -68,7 +68,7 @@
   <h2>📫 Connect with me</h2>
 </div>
 
-<td align="center">
+<div align="center">
     
   <a href="https://www.linkedin.com/in/wellingtondanrley/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
@@ -76,7 +76,7 @@
   <a href="https://instagram.com/danrleyof/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
-</td>
+</div>
 
 <br>
 <br>
