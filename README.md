@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux,arch,hyprlands,vscode&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=linux,arch,debian,vscode&theme=dark" />
     </td>
   </tr>
 </table>
