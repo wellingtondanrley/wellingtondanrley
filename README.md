@@ -73,6 +73,9 @@
   <a href="https://www.linkedin.com/in/wellingtondanrley/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
+<a href="https://www.linkedin.com/in/wellingtondanrley/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
 </p>
 
 <br>
