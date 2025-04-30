@@ -1,5 +1,5 @@
 <h3 align="center">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></h3>
-<h3 align="center">I'm Danrley</h3>
+<h3 align="center">I'm Wellington Danrley</h3>
 
 
 <br>
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=Junior+Full-Stack+Developer+❤️;Graduated+in+Analysis+and+Systems+Development+🎓;Continuous+Learning+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=Cybersecurity+Student+🎓;Software+Engineering+Student+🎓;Continuous+Learning+Enthusiast">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,php&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=js,python,php&theme=dark" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vue,nuxt,next,nodejs,jquery&theme=dark" />
