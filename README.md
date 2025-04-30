@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,js,python,php&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=cs,js,python,php&theme=dark" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vue,next,nodejs&theme=dark" />
@@ -69,8 +69,9 @@
 </div>
 
 <p align="center">
+    
   <a href="https://www.linkedin.com/in/wellingtondanrley/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
 </p>
 
