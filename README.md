@@ -69,7 +69,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateusalecrin/" target="_blank">
+  <a href="https://www.linkedin.com/in/wellingtondanrley/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -78,5 +78,5 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateusalecrin&style=plastic&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=wellingtondanrley&style=plastic&color=blueviolet" alt="Profile Views" />
 </p>
