@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=Cybersecurity+Student+🎓;Software+Engineering+Student+🎓;Continuous+Learning+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=Cybersecurity+Student+🎓;Software+Engineering+Student+🎓;">
   </a>
 </p>
 
@@ -30,7 +30,7 @@
       <img src="https://skillicons.dev/icons?i=js,python,php&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vue,nuxt,next,nodejs,jquery&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=vue,next,nodejs&theme=dark" />
     </td>
   </tr>
 </table>
@@ -45,7 +45,7 @@
       <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,git,github,bitbucket&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=linux,arch,vscode&theme=dark" />
     </td>
   </tr>
 </table>
